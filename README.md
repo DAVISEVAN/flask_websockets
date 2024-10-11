@@ -5,8 +5,7 @@
 git clone <repository_url>
 cd flask_websockets
 
-# 2. Install Python
-# On MacOs 
+# 2. Install Python 
 
 # 3. Set up a Python virtual environment and activate it:
 # On macOS/Linux
