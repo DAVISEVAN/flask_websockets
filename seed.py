@@ -6,7 +6,7 @@ with db.app.app_context():
 def seed_users():
 
     user1 = User(username='Evan', message='Hello')
-    user2 = User(username='Gwyneth', message='Hi')
+    user2 = User(username='Gwen', message='Hi')
 
     db.session.add(user1)
     db.session.add(user2)
